@@ -1,7 +1,6 @@
-# xwalli
+# Minwalp
 
-A new Flutter project.
-
+Minwalp: Elevate your screen with stunning wallpapers! Flutter-based app offering a diverse collection for a personalized and vibrant device experience.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
